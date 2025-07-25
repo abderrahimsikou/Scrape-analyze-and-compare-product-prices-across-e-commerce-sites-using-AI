@@ -19,11 +19,11 @@ This is a complete end-to-end data science project where I collect, clean, analy
 
 ## 🤖 Machine Learning Pipeline
 
-- 1. Cleaned data (price formatting, missing values)
-- 2. Encoded categorical features
-- 3. Trained models on features like "original_price", "discount", "review_count", "category"
-- 4. Tuned models with "GridSearchCV"
-- 5. Evaluated using MAE, RMSE, R²
+- Cleaned data (price formatting, missing values)
+- Encoded categorical features
+- Trained models on features like "original_price", "discount", "review_count", "category"
+- Tuned models with "GridSearchCV"
+- Evaluated using MAE, RMSE, R²
 
 
 ## 🎯 Results
@@ -35,11 +35,11 @@ This is a complete end-to-end data science project where I collect, clean, analy
 
 ## 🚀 Project Structure
 
-Scraping_Data.py : This file content the code of scraping data from jumia website
-Main.ipynb       : This file content the code of Data_Cleaning , Data_visualization, Machine Learning, GridSearchCV
-SQL_DataBase     : This file content the code of connect to database in postgreSQl, Create table in database and insert the cleaning data
-Data             : This folder content the original scraping dataset from web scraping and the cleaning dataset after preprocess
-Model            : This folder content the "Model.pkl" and "StandardScaler.pkl"
+- Scraping_Data.py : This file content the code of scraping data from jumia website
+- Main.ipynb       : This file content the code of Data_Cleaning , Data_visualization, Machine Learning, GridSearchCV
+- SQL_DataBase     : This file content the code of connect to database in postgreSQl, Create table in database and insert the cleaning data
+- Data             : This folder content the original scraping dataset from web scraping and the cleaning dataset after preprocess
+- Model            : This folder content the "Model.pkl" and "StandardScaler.pkl"
 
 
 ## 📦 Tools & Technologies Used
