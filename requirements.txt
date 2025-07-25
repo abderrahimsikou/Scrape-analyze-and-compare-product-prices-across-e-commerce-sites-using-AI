@@ -1,0 +1,10 @@
+python
+selenium
+pandas
+seaborn
+matplotlib
+scikit-learn
+joblib
+sqlalchemy
+dotenv
+urllib
